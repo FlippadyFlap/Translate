@@ -1,0 +1,71 @@
+Top Level
+i/u --> a --> e --> o
+Second Level
+
+Third Level(i)
+4 letters
+iong:44
+iang:144
+3 letters
+ian:477
+iao:335
+ing:383
+uai:53
+2 letters
+in:283 + ing = 666
+ai:297 + uai = 350
+ia:102 + iao + iang = 581
+ei:309
+ie:274
+iu:156
+ui:296
+1 letter
+i:1535
+total = 4167
+
+Third Level(u)
+4 letters
+uang:125
+3 letters
+uan:376 + uang
+2 letters
+u:e:6
+un:291
+uo:336
+ou:365
+ue:121
+ua:65 + uang + uan = 566
+1 letter
+u:1270
+u::37 + u:e = 43
+total - i = 3042
+total = 3444
+
+Third Level(a)
+3 leters
+ang:420
+2 letters
+ao:504
+an:770 + ang
+1 letter
+a:445
+total - i - u = 2175
+total = 3672
+
+Third Level(e)
+3 letters
+eng:339
+2 letters
+en:308
+1 letter
+e:420
+total - i - u - a = 1067
+total = 1777
+
+Third Level(o)
+3 letters
+ong:352
+1 letter
+o:166
+total - i - u - a - e = 186
+total = 1770
