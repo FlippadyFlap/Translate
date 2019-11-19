@@ -1,4 +1,4 @@
-# Pinyin Translate
+# Pinyin Lyric Translate
 
 
 ## What is it?
