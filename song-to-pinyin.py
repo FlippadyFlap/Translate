@@ -1,5 +1,6 @@
 from xpinyin import Pinyin
 from lyricsgenius import Genius
+import apikeys
 
 
 def cleanup(text):
@@ -16,7 +17,7 @@ def cleanup(text):
 
 
 def main():
-    genius = Genius("e8jTVBsM9j2r8nRML0tNY_7IOSUdBxxKJ7SG9x08gzPWNg18vRCH3CmckzfFDPv2")
+    genius = Genius(apikeys.genius)
     genius.excluded_terms = ['(How to pronounce)']
     genius.remove_section_headers = True
     genius.skip_non_songs = True
